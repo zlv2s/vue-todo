@@ -1,0 +1,1 @@
+export const avatar = 'https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortFlat&accessoriesType=Round&hairColor=Brown&facialHairType=BeardMedium&facialHairColor=Black&clotheType=BlazerSweater&eyeType=Cry&eyebrowType=DefaultNatural&mouthType=Concerned&skinColor=Yellow'
