@@ -3,7 +3,7 @@
     <v-toolbar app>
       <v-toolbar-title>Vue Todo</v-toolbar-title>
       <v-spacer></v-spacer>
-      <v-toolbar-items class="hidden-sm-and-down">
+      <v-toolbar-items>
         <v-btn flat v-if="!isAuthenticated">SIGNIN</v-btn>
         <v-btn @click="logout" flat v-if="isAuthenticated">LOGOUT</v-btn>
       </v-toolbar-items>
